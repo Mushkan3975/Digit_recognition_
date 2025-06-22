@@ -35,15 +35,16 @@ The **Digit Recognition** project is a deep learning-based application that iden
 
 1. Clone the repository:
    git clone https://github.com/Mushkan3975/Digit_recognition_.git
+   
    cd Digit_recognition_
    
-2. Make sure you have the required libraries installed:
+3. Make sure you have the required libraries installed:
    pip install tensorflow numpy matplotlib
    
-3. Open the notebook in Jupyter:
+4. Open the notebook in Jupyter:
    jupyter notebook DigitRecognition.ipynb
    
-4. Run all cells to train the model and test predictions.
+5. Run all cells to train the model and test predictions.
 
  
  ## 📈 Future Enhancements
