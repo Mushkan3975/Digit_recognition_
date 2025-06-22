@@ -44,15 +44,15 @@ The **Digit Recognition** project is a deep learning-based application that iden
    jupyter notebook DigitRecognition.ipynb
 
  4.Run all cells to train the model and test predictions.
+ 
+--
 
 ##📈 Future Enhancements
-
 Add GUI for drawing digits in real-time.
 Integrate additional datasets for robust prediction.
 Visualize activation maps from CNN layers.
 
 ##📄 License
-
 This project is open-source and available under the MIT License.
 
 
