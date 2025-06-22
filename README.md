@@ -44,6 +44,7 @@ The **Digit Recognition** project is a deep learning-based application that iden
    jupyter notebook DigitRecognition.ipynb
    
 4.Run all cells to train the model and test predictions.
+
  
  ## 📈 Future Enhancements
 
